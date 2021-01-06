@@ -8,6 +8,8 @@
   },
   "parser": "babel-eslint",
   "rules": {
+    "react/prop-types": 0,
+    "react/jsx-props-no-spreading": 0,
     "semi": [
       "error",
       "never"
